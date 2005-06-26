@@ -1,4 +1,5 @@
-Summary:	widgEditor
+Summary:	widgEditor - WYSIWYG editor for simple content
+Summary(pl):	widgEditor - edytor WYSIWYG dla prostej tre¶ci
 Name:		widgEditor
 # no version. use last changed date from sources.
 %define	_snap 20050309
@@ -18,6 +19,13 @@ widgEditor is an easily installed, easily customisable WYSIWYG editor
 for simple content. It replaces existing textareas with an improved
 editing pane using JavaScript, therefore if you don't have JavaScript
 (or your browser doesn't support HTML editing) it degrades gracefully.
+
+%description -l pl
+widgEditor to ³atwy w instalacji i konfiguracji edytor WYSIWYG dla
+prostej tre¶ci. Zastêpuje istniej±ce pola textarea ulepszonym polem
+edycyjnym u¿ywaj±cym JavaScriptu - wiêc bez obs³ugi JavaScriptu (albo
+je¶li przegl±darka nie obs³uguje edycji HTML) wdziêcznie siê
+degraduje.
 
 %prep
 %setup -q -c
