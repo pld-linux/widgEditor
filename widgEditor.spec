@@ -18,7 +18,6 @@ widgEditor is an easily installed, easily customisable WYSIWYG editor
 for simple content. It replaces existing textareas with an improved
 editing pane using JavaScript, therefore if you don't have JavaScript
 (or your browser doesn't support HTML editing) it degrades gracefully.
-Try it out by typing below, and submit to see the processed output.
 
 %prep
 %setup -q -c
