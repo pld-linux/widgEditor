@@ -1,5 +1,5 @@
 Summary:	widgEditor - WYSIWYG editor for simple content
-Summary(pl.UTF-8):   widgEditor - edytor WYSIWYG dla prostej treści
+Summary(pl.UTF-8):	widgEditor - edytor WYSIWYG dla prostej treści
 Name:		widgEditor
 # no version. use last changed date from sources.
 %define	_snap 20050309
