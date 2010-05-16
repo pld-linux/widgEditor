@@ -12,6 +12,7 @@ Source0:	http://www.themaninblue.com/experiment/widgEditor/widgEditor.zip
 # Source0-md5:	3a9ef2cccaeea1302f0867d90f1a1be6
 URL:		http://www.themaninblue.com/experiment/widgEditor/
 BuildArch:	noarch
+BuildRequires:	unzip
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
